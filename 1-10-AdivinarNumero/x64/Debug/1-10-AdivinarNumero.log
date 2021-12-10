@@ -1,0 +1,3 @@
+﻿  1-10-AdivinarNumero.cpp
+C:\Users\Allan\source\repos\Deitel9\1-10-AdivinarNumero\1-10-AdivinarNumero.cpp(12,5): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  1-10-AdivinarNumero.vcxproj -> C:\Users\Allan\source\repos\Deitel9\1-10-AdivinarNumero\x64\Debug\1-10-AdivinarNumero.exe
